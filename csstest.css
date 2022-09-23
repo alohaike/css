@@ -8,14 +8,14 @@
 
 /* FONT (From Google Fonts) */
 
-@import url('FONT LINK HERE');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
 
 /* BACKGROUND */
 
 body {
 	background: url('BACKGROUND URL HERE') center center fixed;
 	background-size: 100%;
-	font-family: FONT CSS HERE;
+	font-family:'Playfair Display', serif;
 	color: #000000;
 }
 
